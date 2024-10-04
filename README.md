@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Three.js**
 
-- 💬 Ask me about **Data Structure,Java,Sq;**
+- 💬 Ask me about **Data Structure , Java , SQL;**
 
 - 📫 How to reach me **rohanrajak132@gmail.com**
 
